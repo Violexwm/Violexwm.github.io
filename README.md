@@ -2,7 +2,7 @@
 
 
 ## Omori
-Omori Ending.
+The End.
 
 <img width="1920" height="1080" alt="Screenshot 2024-08-01 111608" src="https://github.com/user-attachments/assets/0039523e-80a5-4f02-b3d4-68cd6be1834e" />
 
