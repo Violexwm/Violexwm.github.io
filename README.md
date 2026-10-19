@@ -4,11 +4,11 @@
 ## Omori
 The End.
 
-<img width="1080" height="1920" alt="Screenshot 2024-08-01 111608" src="https://github.com/user-attachments/assets/0039523e-80a5-4f02-b3d4-68cd6be1834e" />
+<img width="1920" height="1080" alt="Screenshot 2024-08-01 111608" src="https://github.com/user-attachments/assets/0039523e-80a5-4f02-b3d4-68cd6be1834e" />
 
 Friends.
 
-<img width="1080" height="1920" alt="Screenshot 2024-07-31 231719" src="https://github.com/user-attachments/assets/d66c8c44-7988-476a-846e-35484b314d4d" />
+<img width="1920" height="1080" alt="Screenshot 2024-07-31 231719" src="https://github.com/user-attachments/assets/d66c8c44-7988-476a-846e-35484b314d4d" />
 
 
 ## Sailor Moon
