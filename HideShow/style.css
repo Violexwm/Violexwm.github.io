@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    background-color: #ffe4ee; 
+    padding: 0 20px;          
+}
+
+.trivia h3.question:not(:first-of-type) {
+    margin-top: 25px;         
+}
+
+.question {
+    background-color: #ff85a2; 
+    color: white;             
+    font-weight: bold;
+    padding: 15px;
+    cursor: pointer;
+    border: 2px solid #f9d142;  
+    border-radius: 4px 4px 0 0; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05); 
+    transition: background-color 0.2s ease;   
+}
+
+.question:hover {
+    background-color: #ff6B8F;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #2b3a80; 
+    color: #ffffff;            
+    border: 2px solid #2b3a80; 
+    border-top: none;          
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.answer .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 15px; 
+}
+
+.answer img {
+    max-width: 100%; 
+    height: auto;    
+    border-radius: 4px;        
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
