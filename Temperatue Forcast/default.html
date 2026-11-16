@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Forecast </title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css" />
+</head> 
+<body>
+    <h2 id="chartTitle">Temperature Forecast Chicago</h2>
+    <label for="citySelect">Choose a location: </label>
+    <select id="citySelect">
+        <option value="chicago">Chicago</option>
+        <option value="japan">Japan (Tokyo)</option>
+        <option value="jamaica">Jamaica (Kingston)</option>
+        <option value="iceland">Iceland (Reykjavik)</option>
+    </select>
+    <p>This weather forecast visualization was created by Unknown User.</p>
+    <p>
+    <ul>
+    <li>Blue for cooler temperatures (e.g., below 50F),</li>
+    <li>Light Blue for moderate temperatures (e.g., 50F to 75F),</li>
+    <li>Red for hot temperatures (e.g., above 75F).</li>
+    </ul>
+    </p>
+    
+    <canvas id="weatherChart" width="400" height="200"></canvas>
+    <script src="script.js"></script>
+<h2>Credits</h2>
+
+<p>Chicago data: U.S. National Weather Service. Other locations: <a href="https://open-meteo.com/">Open-Meteo</a> (CC BY 4.0).</p>
+
+</body>
+</html>
